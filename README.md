@@ -6,3 +6,8 @@ I'm really proud of being one from this community. And Nice to see ya guys.
 👀 I’m interested in coding and problem solving. 
 😄 You can call me Thu Rain. I want to make friends with you guys.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=vscode,linkedin,github,html,css,sass,js,react,flutter&theme=light)https://skillicons.dev/icons?i=vscode,linkedin,github,html,css,sass,js,react,flutter&theme=light" />
+  </a>
+</p>
