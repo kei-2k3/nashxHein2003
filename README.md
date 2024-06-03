@@ -17,7 +17,5 @@ I'm really proud of being one from this community. And Nice to see ya guys.
   </a>
 </p>
 
-## Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashxHein2003&layout=compact)
 
 
