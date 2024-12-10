@@ -30,7 +30,7 @@ I'm a Mobile developer specializing in Frontend Developement.
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nashxHein2003&show_icons=true&theme=radical)](https://github.com/nashxHein2003)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashxHein2003&layout=compact&theme=radical)](https://github.com/nashxHein2003)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## 📫 Connect with Me
 
