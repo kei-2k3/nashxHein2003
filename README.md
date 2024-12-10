@@ -2,7 +2,7 @@
 # Hi there, I'm Thu Rain Hein 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/nashxHein2003?label=Follow&style=social)](https://github.com/nashxHein2003/?tab=followers)
-[![Linkedin: Thu Rain Hein](https://img.shields.io/badge/-thurainhein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thurainhein/)](https://www.linkedin.com/in/thurainhein/)
+[![Linkedin: Thu Rain Hein](https://img.shields.io/badge/-thurainhein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thurainhein/)]([https://www.linkedin.com/in/thurainhein/](https://www.linkedin.com/in/thu-rain-hein-67b125286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRP68FrfZS9a6KLHRX5neeQ%3D%3D))
 
 I'm a Mobile developer specializing in Frontend Developement. 
 
@@ -33,7 +33,7 @@ I'm a Mobile developer specializing in Frontend Developement.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thurainhein/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/thurainhein/](https://www.linkedin.com/in/thu-rain-hein-67b125286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRP68FrfZS9a6KLHRX5neeQ%3D%3D))
 
 
 
