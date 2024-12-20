@@ -27,7 +27,7 @@ I'm a passionate and self motivated mobile developer.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## 📈 GitHub Stats
-[![Git Profile]](https://git-wrapped.com/profiles/nashxHein2003).
+[![Git Wrapped]](https://git-wrapped.com/profiles/nashxHein2003).
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nashxHein2003&show_icons=true&theme=radical)](https://github.com/nashxHein2003)
 
