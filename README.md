@@ -1,10 +1,10 @@
 
 # Hi there, I'm Thu Rain Hein 
 
-[![GitHub followers](https://img.shields.io/github/followers/nashxHein2003?label=Follow&style=social)](https://github.com/nashxHein2003/?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/kei-2k3?label=Follow&style=social)](https://github.com/kei-2k3/?tab=followers)
 [![Linkedin: Thu Rain Hein](https://img.shields.io/badge/-thurainhein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thurainhein/)]([https://www.linkedin.com/in/thurainhein/](https://www.linkedin.com/in/thu-rain-hein-67b125286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRP68FrfZS9a6KLHRX5neeQ%3D%3D))
 
-![Codewar](https://www.codewars.com/users/nashxHein2003/badges/large)
+![Codewar](https://www.codewars.com/users/kei-2k3/badges/large)
 
 I'm a passionate and self motivated mobile developer.
 
@@ -30,7 +30,7 @@ I'm a passionate and self motivated mobile developer.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nashxHein2003&show_icons=true&theme=radical)](https://github.com/nashxHein2003)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kei-2k3&show_icons=true&theme=radical)](https://github.com/nashxHein2003)
 
 
 ## 📫 Connect with Me
